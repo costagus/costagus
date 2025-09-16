@@ -1,4 +1,4 @@
-# Olá, eu sou o Gustavo Melo e Costa 👋
+# Olá, eu sou o Gustavo 👋
 
 Estudante de **Sistemas de Informação na UTFPR**, apaixonado por transformar problemas complexos em soluções de software elegantes e eficientes.
 
